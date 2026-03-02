@@ -1,0 +1,6 @@
+MAE: 1091.38
+MSE: 1673691.94
+RMSE: 1293.71
+R2: 0.79
+MAPE: 12.92%
+Confidence Score: 0.79
